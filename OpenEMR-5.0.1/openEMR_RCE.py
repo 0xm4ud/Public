@@ -5,8 +5,6 @@
 import requests
 import sys
 import time
-
-
 from optparse import OptionParser
 
 
