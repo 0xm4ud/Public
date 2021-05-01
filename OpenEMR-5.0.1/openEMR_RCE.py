@@ -1,7 +1,6 @@
 # OpenEMR 5.0.1 (3) Authenticated RCE 
 # Exploit Author: (m4ud)
 
-
 import requests
 import sys
 import time
